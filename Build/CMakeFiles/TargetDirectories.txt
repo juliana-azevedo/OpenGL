@@ -1,0 +1,3 @@
+/home/ju/Documentos/Trabalho/Build/CMakeFiles/Trabalho.dir
+/home/ju/Documentos/Trabalho/Build/CMakeFiles/edit_cache.dir
+/home/ju/Documentos/Trabalho/Build/CMakeFiles/rebuild_cache.dir
